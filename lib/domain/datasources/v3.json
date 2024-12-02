@@ -1,0 +1,87 @@
+{
+  "wines_by": [
+    {
+      "tag": "type",
+      "name": "Type"
+    },
+    {
+      "tag": "style",
+      "name": "Style"
+    },
+    {
+      "tag": "country",
+      "name": "Countries"
+    },
+    {
+      "tag": "grape",
+      "name": "Grape"
+    }
+  ],
+  "carousel": [
+    {
+      "name": "Chateau Margaux 2015",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fred-wine-bottle&psig=AOvVaw0ASgawHv7YZlxCMYWJd4JR&ust=1732623990981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC10uS994kDFQAAAAAdAAAAABAJ",
+      "critic_score": 97,
+      "bottle_size": "750 ml",
+      "price_usd": 750,
+      "type": "red",
+      "from": {
+        "country": "France 🇫🇷",
+        "city": "Bordeaux"
+      },
+      "available": true
+    },
+    {
+      "name": "Cloudy Bay Sauvignon Blanc 2020",
+      "image": "https://img.lazcdn.com/g/p/9750daedd4d6b19b9fd0a23447f817ca.png_960x960q80.png_.webp",
+      "critic_score": 92,
+      "bottle_size": "750 ml",
+      "price_usd": 30,
+      "type": "white",
+      "from": {
+        "country": "New Zealand 🇳🇿",
+        "city": "Marlborough"
+      },
+      "available": false
+    },
+    {
+      "name": "Moet & Chandon Imperial Brut",
+      "image": "https://platform-ps-files.s3.us-east-2.amazonaws.com/images/origin/medium_passion_spirits_m_c_imperial_brut_04_2010984b23.jpg",
+      "critic_score": 89,
+      "bottle_size": "750 ml",
+      "price_usd": 50,
+      "type": "sparkling",
+      "from": {
+        "country": "France 🇫🇷",
+        "city": "Champagne"
+      },
+      "available": true
+    },
+    {
+      "name": "Penfolds Grange 2016",
+      "image": "https://secretbottleshop.co.uk/cdn/shop/products/37f93d5b-6f4a-40b3-8c60-e9a435cd312e_700x700.jpg?v=1690968923",
+      "critic_score": 98,
+      "bottle_size": "750 ml",
+      "price_usd": 850,
+      "type": "red",
+      "from": {
+        "country": "Australia 🇦🇺",
+        "city": "Barossa Valley"
+      },
+      "available": true
+    },
+    {
+      "name": "Gavi di Gavi La Scolca 2019",
+      "image": "https://unsplash.com/photos/a-woman-holding-a-bottle-of-wine-in-her-hand-wfQRJJQc_u0",
+      "critic_score": 90,
+      "bottle_size": "750 ml",
+      "price_usd": 40,
+      "type": "white",
+      "from": {
+        "country": "Italy 🇮🇹",
+        "city": "Piedmont"
+      },
+      "available": false
+    }
+  ]
+}
